@@ -16,44 +16,49 @@ class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head;
         int remainder = 0;
-        int result = l1.val + l2.val;
+        int result = getValue(l1) + getValue(l2);
         ListNode out;
-        if (result >= 10){
+        if (result >= 10) {
             head = new ListNode((result + remainder) % 10);
             remainder = (result + remainder) / 10;
-
             out = head;
-        }else {
+        } else {
             head = out = new ListNode(result);
         }
-        if(l1.next != null && l2.next != null)
-        {
-            do
-            {
-                l1 = l1.next;
-                l2 = l2.next;
-                result = l1.val + l2.val + remainder;
-                if (result >= 10)
-                {
+        if (l1.next != null || l2.next != null) {
+            do {
+                l1 = next(l1);
+                l2 = next(l2);
+                result = getValue(l1) + getValue(l2) + remainder;
+                if (result >= 10) {
                     ListNode listNode = new ListNode(result % 10);
                     remainder = result / 10;
                     out.next = listNode;
                     out = listNode;
-                }
-                else
-                {
+                } else {
                     ListNode listNode = new ListNode(result % 10);
                     out.next = listNode;
                     out = listNode;
                     remainder = 0;
                 }
             }
-            while (l1.next != null);
+            while (next(l1) != null || next(l2) != null);
         }
-        if (remainder != 0){
+        if (remainder != 0) {
             out.next = new ListNode(remainder);
         }
         return head;
+    }
+
+    public ListNode next(ListNode listNode) {
+        if (listNode != null) {
+            return listNode.next;
+        }
+        return null;
+    }
+
+    public int getValue(ListNode listNode) {
+        return listNode == null ? 0 : listNode.val;
     }
 
     public class ListNode {
