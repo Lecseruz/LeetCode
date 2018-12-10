@@ -26,6 +26,7 @@
         <module>445</module>
         <module>24</module>
         <module>25</module>
+        <module>23</module>
     </modules>
     <packaging>pom</packaging>
 
