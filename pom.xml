@@ -29,6 +29,8 @@
         <module>23</module>
         <module>13</module>
         <module>859</module>
+        <module>28</module>
+        <module>443</module>
     </modules>
     <packaging>pom</packaging>
 
