@@ -7,16 +7,22 @@ public class Solution {
     }
 
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        byte[] array = new byte[nums.length + 1] ;
-        for (int i = 0; i < nums.length; ++i) {
-            array[nums[i]] = 1;
-        }
-        List<Integer> list = new ArrayList<>();
-        for (int i = 1; i < nums.length; ++i) {
-            if(array[i] == 0){
-                list.add(i);
+        List<Integer> ret = new ArrayList<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            int index = Math.abs(nums[i]) - 1;
+
+            if (nums[index] > 0) {
+                nums[index] = -nums[index];
             }
         }
-        return list;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                ret.add(i + 1);
+            }
+        }
+
+        return ret;
     }
 }
