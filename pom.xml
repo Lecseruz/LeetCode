@@ -43,6 +43,9 @@
         <module>415</module>
         <module>448</module>
         <module>66</module>
+        <module>268</module>
+        <module>53</module>
+        <module>283</module>
     </modules>
     <packaging>pom</packaging>
 
