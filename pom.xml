@@ -59,6 +59,9 @@
         <module>322</module>
         <module>120</module>
         <module>139</module>
+        <module>213_House_Robber_2</module>
+        <module>62_Unique_Paths</module>
+        <module>63_Unique_paths_2</module>
     </modules>
     <packaging>pom</packaging>
 
