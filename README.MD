@@ -11,3 +11,5 @@
 264 repeat ugly number
 
 279 repeat perfect squares
+
+309 need to repeat
