@@ -61,6 +61,10 @@
         <module>213_House_Robber_2</module>
         <module>62_Unique_Paths</module>
         <module>63_Unique_paths_2</module>
+        <module>96_Unique_Binary_Search_Trees</module>
+        <module>152_Maximum_Product_Subarray</module>
+        <module>264_Ugly_Number_2</module>
+        <module>279_Perfect_Squares</module>
     </modules>
     <packaging>pom</packaging>
 
