@@ -63,6 +63,7 @@
         <module>62_Unique_Paths</module>
         <module>63_Unique_paths_2</module>
         <module>64_Minimum_Path_Sum</module>
+        <module>91_Decode_ways</module>
     </modules>
     <packaging>pom</packaging>
 
