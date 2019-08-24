@@ -58,13 +58,18 @@
         <module>221</module>
         <module>322</module>
         <module>120</module>
+        <module>139</module>
         <module>213_House_Robber_2</module>
         <module>62_Unique_Paths</module>
         <module>63_Unique_paths_2</module>
+<<<<<<< HEAD
         <module>96_Unique_Binary_Search_Trees</module>
         <module>152_Maximum_Product_Subarray</module>
         <module>264_Ugly_Number_2</module>
         <module>279_Perfect_Squares</module>
+=======
+        <module>64_Minimum_Path_Sum</module>
+>>>>>>> 2bb5f88d0bd0ecb5b5437561ea422a1379e63f18
     </modules>
     <packaging>pom</packaging>
 
