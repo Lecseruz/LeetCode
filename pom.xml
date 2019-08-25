@@ -76,6 +76,7 @@
         <module>376_Wiggle_Subsequence</module>
         <module>377_Combination_Sum_IV</module>
         <module>413_Arithmetic_Slices</module>
+        <module>416_Partition_Equal_Subset_Sum</module>
     </modules>
     <packaging>pom</packaging>
 
