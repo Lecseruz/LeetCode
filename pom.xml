@@ -74,6 +74,8 @@
         <module>338_Counting_Bits</module>
         <module>375_Guess_Number_Higher_or_Lower_II</module>
         <module>376_Wiggle_Subsequence</module>
+        <module>377_Combination_Sum_IV</module>
+        <module>413_Arithmetic_Slices</module>
     </modules>
     <packaging>pom</packaging>
 
