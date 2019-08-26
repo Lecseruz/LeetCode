@@ -70,6 +70,8 @@
         <module>91_Decode_ways</module>
         <module>300_Longest_Increasing_Subsequence</module>
         <module>309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown</module>
+        <module>343_Integer_Break</module>
+        <module>357_Count_Numbers_with_Unique_Digits</module>
     </modules>
     <packaging>pom</packaging>
 
