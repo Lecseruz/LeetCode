@@ -77,6 +77,7 @@
         <module>377_Combination_Sum_IV</module>
         <module>413_Arithmetic_Slices</module>
         <module>416_Partition_Equal_Subset_Sum</module>
+        <module>637_Average_of_Levels_in_Binary_Tree</module>
     </modules>
     <packaging>pom</packaging>
 
