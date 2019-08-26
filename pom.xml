@@ -59,6 +59,7 @@
         <module>322</module>
         <module>120</module>
         <module>139</module>
+        <module>91_Decode_ways</module>
         <module>213_House_Robber_2</module>
         <module>62_Unique_Paths</module>
         <module>63_Unique_paths_2</module>
@@ -72,6 +73,13 @@
         <module>309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown</module>
         <module>343_Integer_Break</module>
         <module>357_Count_Numbers_with_Unique_Digits</module>
+        <module>338_Counting_Bits</module>
+        <module>375_Guess_Number_Higher_or_Lower_II</module>
+        <module>376_Wiggle_Subsequence</module>
+        <module>377_Combination_Sum_IV</module>
+        <module>413_Arithmetic_Slices</module>
+        <module>416_Partition_Equal_Subset_Sum</module>
+        <module>637_Average_of_Levels_in_Binary_Tree</module>
     </modules>
     <packaging>pom</packaging>
 
