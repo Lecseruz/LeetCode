@@ -86,6 +86,9 @@
         <module>112_Path_Sum</module>
         <module>437_Path_Sum_3</module>
         <module>404_Sum_of_Left_Leaves</module>
+        <module>671_Second_Minimum_NodeIn_a_Binary_Tree</module>
+        <module>687_Longest_Univalue_Path</module>
+        <module>572_Subtree_of_Another_Tree</module>
     </modules>
     <packaging>pom</packaging>
 
