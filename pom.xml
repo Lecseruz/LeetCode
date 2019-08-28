@@ -89,6 +89,9 @@
         <module>671_Second_Minimum_NodeIn_a_Binary_Tree</module>
         <module>687_Longest_Univalue_Path</module>
         <module>572_Subtree_of_Another_Tree</module>
+        <module>116_Populating_Next_Right_Pointers_in_Each_Node</module>
+        <module>129_Sum_Root_to_Leaf_Numbers</module>
+        <module>236_Lowest_Common_Ancestor_of_a_Binary_Tree</module>
     </modules>
     <packaging>pom</packaging>
 
