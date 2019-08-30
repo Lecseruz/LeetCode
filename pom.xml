@@ -93,6 +93,7 @@
         <module>129_Sum_Root_to_Leaf_Numbers</module>
         <module>236_Lowest_Common_Ancestor_of_a_Binary_Tree</module>
         <module>515_Find_Largest_Value_in_Each_Tree_Row</module>
+        <module>337_House_Robber_3</module>
     </modules>
     <packaging>pom</packaging>
 
