@@ -94,6 +94,10 @@
         <module>236_Lowest_Common_Ancestor_of_a_Binary_Tree</module>
         <module>515_Find_Largest_Value_in_Each_Tree_Row</module>
         <module>337_House_Robber_3</module>
+        <module>155_Min_Stack</module>
+        <module>20_Valid_Parentheses</module>
+        <module>232_Implement_Queue_using_Stacks</module>
+        <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
     </modules>
     <packaging>pom</packaging>
 
