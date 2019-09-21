@@ -3,7 +3,7 @@ public class Solution
     public static void main(String[] args)
     {
         Solution solution = new Solution();
-        System.out.println(solution.maxProfit(new int[] {1, 2, 3, 4, 9, 10, 8}));
+        System.out.println(solution.maxProfit(new int[] {2, 1, 2, 0, 1}));
     }
 
     public int maxProfit(int[] prices)

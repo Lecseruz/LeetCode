@@ -1,17 +1,12 @@
-class Solution
-{
-    public static void main(String[] args)
-    {
+class Solution {
+    public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.maxProduct(new int[] {3, 1, -2, 3, -3, 4, -5, -5}));
+        System.out.println(solution.maxProduct(new int[]{3, 1, -2, 3, -3, 4, -5, -5}));
     }
 
-    public int maxProduct(int[] nums)
-    {
+    public int maxProduct(int[] nums) {
         if (nums.length == 0)
-        {
             return 0;
-        }
         int max = nums[0];
         int currMax = nums[0];
         int currMin = nums[0];
