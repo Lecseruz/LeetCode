@@ -32,7 +32,6 @@
         <module>443</module>
         <module>647</module>
         <module>623</module>
-        <module>809</module>
         <module>71</module>
         <module>981</module>
         <module>811</module>
@@ -100,6 +99,10 @@
         <module>20_Valid_Parentheses</module>
         <module>232_Implement_Queue_using_Stacks</module>
         <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
+        <module>907_Sum_of_Subarray_Minimums</module>
+        <module>84_Largest_Rectangle_in_Histogram</module>
+        <module>85_Maximal_Rectangle</module>
+        <module>224_Basic_Calculator</module>
     </modules>
     <packaging>pom</packaging>
 
