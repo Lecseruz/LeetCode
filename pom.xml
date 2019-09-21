@@ -85,11 +85,21 @@
         <module>101_Symmetric_Tree</module>
         <module>112_Path_Sum</module>
         <module>437_Path_Sum_3</module>
+        <module>404_Sum_of_Left_Leaves</module>
         <module>671_Second_Minimum_NodeIn_a_Binary_Tree</module>
         <module>687_Longest_Univalue_Path</module>
         <module>572_Subtree_of_Another_Tree</module>
         <module>169_Majority_Element</module>
         <module>188_Best_Time_to_Buy_and_Sell_Stock_4</module>
+        <module>116_Populating_Next_Right_Pointers_in_Each_Node</module>
+        <module>129_Sum_Root_to_Leaf_Numbers</module>
+        <module>236_Lowest_Common_Ancestor_of_a_Binary_Tree</module>
+        <module>515_Find_Largest_Value_in_Each_Tree_Row</module>
+        <module>337_House_Robber_3</module>
+        <module>155_Min_Stack</module>
+        <module>20_Valid_Parentheses</module>
+        <module>232_Implement_Queue_using_Stacks</module>
+        <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
     </modules>
     <packaging>pom</packaging>
 
