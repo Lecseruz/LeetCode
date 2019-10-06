@@ -32,7 +32,6 @@
         <module>443</module>
         <module>647</module>
         <module>623</module>
-        <module>809</module>
         <module>71</module>
         <module>981</module>
         <module>811</module>
@@ -89,6 +88,8 @@
         <module>671_Second_Minimum_NodeIn_a_Binary_Tree</module>
         <module>687_Longest_Univalue_Path</module>
         <module>572_Subtree_of_Another_Tree</module>
+        <module>169_Majority_Element</module>
+        <module>188_Best_Time_to_Buy_and_Sell_Stock_4</module>
         <module>116_Populating_Next_Right_Pointers_in_Each_Node</module>
         <module>129_Sum_Root_to_Leaf_Numbers</module>
         <module>236_Lowest_Common_Ancestor_of_a_Binary_Tree</module>
@@ -99,6 +100,10 @@
         <module>232_Implement_Queue_using_Stacks</module>
         <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
         <module>997_Find_the_Town_Judge</module>
+        <module>907_Sum_of_Subarray_Minimums</module>
+        <module>84_Largest_Rectangle_in_Histogram</module>
+        <module>85_Maximal_Rectangle</module>
+        <module>224_Basic_Calculator</module>
     </modules>
     <packaging>pom</packaging>
 
