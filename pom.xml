@@ -98,6 +98,7 @@
         <module>20_Valid_Parentheses</module>
         <module>232_Implement_Queue_using_Stacks</module>
         <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
+        <module>997_Find_the_Town_Judge</module>
     </modules>
     <packaging>pom</packaging>
 
