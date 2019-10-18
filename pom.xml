@@ -106,6 +106,7 @@
         <module>224_Basic_Calculator</module>
         <module>1161_Maximum_Level_Sum_of_a_Binary_Tree</module>
         <module>1043_Partition_Array_for_Maximum_Sum</module>
+        <module>323_Number_of_Connected_Components_in_an_Undirected_Graph</module>
     </modules>
     <packaging>pom</packaging>
 
