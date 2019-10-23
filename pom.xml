@@ -99,12 +99,16 @@
         <module>20_Valid_Parentheses</module>
         <module>232_Implement_Queue_using_Stacks</module>
         <module>1047_Remove_All_Adjacent_Duplicates_In_String</module>
+        <module>997_Find_the_Town_Judge</module>
         <module>907_Sum_of_Subarray_Minimums</module>
         <module>84_Largest_Rectangle_in_Histogram</module>
         <module>85_Maximal_Rectangle</module>
         <module>224_Basic_Calculator</module>
         <module>394_Decode_String</module>
         <module>959_Regions_Cut_By_Slashes</module>
+        <module>1161_Maximum_Level_Sum_of_a_Binary_Tree</module>
+        <module>1043_Partition_Array_for_Maximum_Sum</module>
+        <module>323_Number_of_Connected_Components_in_an_Undirected_Graph</module>
     </modules>
     <packaging>pom</packaging>
 
