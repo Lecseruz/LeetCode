@@ -103,6 +103,8 @@
         <module>84_Largest_Rectangle_in_Histogram</module>
         <module>85_Maximal_Rectangle</module>
         <module>224_Basic_Calculator</module>
+        <module>394_Decode_String</module>
+        <module>959_Regions_Cut_By_Slashes</module>
     </modules>
     <packaging>pom</packaging>
 
