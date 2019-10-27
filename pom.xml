@@ -111,6 +111,16 @@
         <module>323_Number_of_Connected_Components_in_an_Undirected_Graph</module>
         <module>785_Is_Graph_Bipartite</module>
         <module>207_Course_Schedule</module>
+        <module>765_Couples_Holding_Hands</module>
+        <module>269_Alien_Dictionary</module>
+        <module>854_K_Similar_Strings</module>
+        <module>1046_Last_Stone_Weight</module>
+        <module>703_Kth_Largest_Element_in_a_Stream</module>
+        <module>973_K_Closest_Points_to_Origin</module>
+        <module>692_Top_K_Frequent_Words</module>
+        <module>253_Meeting_Rooms_2a</module>
+        <module>787_Cheapest_Flights_Within_K_Stops</module>
+        <module>355_Design_Twitter</module>
     </modules>
     <packaging>pom</packaging>
 
