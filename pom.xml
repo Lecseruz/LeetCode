@@ -123,6 +123,7 @@
         <module>787_Cheapest_Flights_Within_K_Stops</module>
         <module>355_Design_Twitter</module>
         <module>86_Partition_List</module>
+        <module>759_Employee_Free_Time</module>
     </modules>
     <packaging>pom</packaging>
 
