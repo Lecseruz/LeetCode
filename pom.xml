@@ -123,6 +123,9 @@
         <module>787_Cheapest_Flights_Within_K_Stops</module>
         <module>355_Design_Twitter</module>
         <module>295_Find_Median_from_Data_Stream</module>
+        <module>218_The_Skyline_Problem</module>
+        <module>428_Serialize_and_Deserialize_N_aryTree</module>
+        <module>297_Serialize_and_Deserialize_Binary_Tree</module>
     </modules>
     <packaging>pom</packaging>
 
