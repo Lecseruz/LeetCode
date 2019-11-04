@@ -124,6 +124,8 @@
         <module>355_Design_Twitter</module>
         <module>86_Partition_List</module>
         <module>759_Employee_Free_Time</module>
+        <module>407_Trapping_Rain_Water2</module>
+        <module>239_Sliding_Window_Maximum</module>
     </modules>
     <packaging>pom</packaging>
 
