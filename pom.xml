@@ -126,6 +126,12 @@
         <module>218_The_Skyline_Problem</module>
         <module>428_Serialize_and_Deserialize_N_aryTree</module>
         <module>297_Serialize_and_Deserialize_Binary_Tree</module>
+        <module>1028_Recover_a_Tree_From_Preorder_Traversal</module>
+        <module>145_Binary_Tree_Postorder_Traversal</module>
+        <module>590_N_ary_Tree_Postorder_Traversal</module>
+        <module>94_Binary_Tree_Inorder_Traversal</module>
+        <module>99_Recover_Binary_Search_Tree</module>
+        <module>124_Binary_Tree_Maximum_Path_Sum</module>
     </modules>
     <packaging>pom</packaging>
 
