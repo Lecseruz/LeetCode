@@ -130,6 +130,18 @@
         <module>218_The_Skyline_Problem</module>
         <module>428_Serialize_and_Deserialize_N_aryTree</module>
         <module>297_Serialize_and_Deserialize_Binary_Tree</module>
+        <module>461_Hamming_Distance</module>
+        <module>136_Single_Number</module>
+        <module>136_Single_Number</module>
+        <module>784_Letter_Case_Permutation</module>
+        <module>371_Sum_of_Two_Integers</module>
+        <module>268_Missing_Number</module>
+        <module>231_Power_of_Two</module>
+        <module>190_Reverse_Bits</module>
+        <module>78_Subsets</module>
+        <module>137_Single_Number_2</module>
+        <module>201_Bitwise_AND_of_Numbers_Range</module>
+        <module>1178_Number_of_Valid_Words_for_Each_Puzzle</module>
     </modules>
     <packaging>pom</packaging>
 
