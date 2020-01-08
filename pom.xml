@@ -142,6 +142,28 @@
         <module>137_Single_Number_2</module>
         <module>201_Bitwise_AND_of_Numbers_Range</module>
         <module>1178_Number_of_Valid_Words_for_Each_Puzzle</module>
+        <module>1028_Recover_a_Tree_From_Preorder_Traversal</module>
+        <module>145_Binary_Tree_Postorder_Traversal</module>
+        <module>590_N_ary_Tree_Postorder_Traversal</module>
+        <module>94_Binary_Tree_Inorder_Traversal</module>
+        <module>99_Recover_Binary_Search_Tree</module>
+        <module>124_Binary_Tree_Maximum_Path_Sum</module>
+        <module>393_UTF_8_Validation</module>
+        <module>202_Happy_Number</module>
+        <module>9_Palindrome_Number</module>
+        <module>67_Add_Binary</module>
+        <module>69_Sqrtx</module>
+        <module>204_Count_Primes</module>
+        <module>7_Reverse_Integer</module>
+        <module>535_Encode_and_Decode_TinyURL</module>
+        <module>43_Multiply_Strings</module>
+        <module>162_Find_Peak_Element</module>
+        <module>964_Least_Operators_to_Express_Number</module>
+        <module>312_Burst_Balloons</module>
+        <module>72_Edit_Distance</module>
+        <module>32_Longest_Valid_Parentheses</module>
+        <module>10_Regular_Expression_Matching</module>
+        <module>346_Moving_Average_from_Data_Stream</module>
     </modules>
     <packaging>pom</packaging>
 

@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.findMedianSortedArrays(new int[]{1, 5, 10, 15, 40, 100}, new int[]{2, 3, 4, 7, 8, 9, 12, 13, 14}));
+        System.out.println(solution.findMedianSortedArrays(new int[]{1, 3}, new int[]{2}));
     }
 
     public double findMedianSortedArrays(int[] A, int[] B) {
@@ -28,7 +28,8 @@ class Solution {
                 if (i == 0) { maxLeft = B[j-1]; }
                 else if (j == 0) { maxLeft = A[i-1]; }
                 else { maxLeft = Math.max(A[i-1], B[j-1]); }
-                if ( (m + n) % 2 == 1 ) { return maxLeft; }
+                if ( (m + n) % 2 == 1 )
+                    return maxLeft;
 
                 int minRight = 0;
                 if (i == m) { minRight = B[j]; }

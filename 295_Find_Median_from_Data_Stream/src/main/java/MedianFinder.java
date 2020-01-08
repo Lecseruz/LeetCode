@@ -4,6 +4,15 @@ class MedianFinder {
     /** initialize your data structure here. */
     private PriorityQueue<Integer> maxHeap;
     private PriorityQueue<Integer> minHeap;
+
+    public static void main(String[] args) {
+        MedianFinder medianFinder = new MedianFinder();
+        medianFinder.addNum(1);
+        medianFinder.addNum(1);
+        medianFinder.findMedian();
+        medianFinder.addNum(3);
+        medianFinder.findMedian();
+    }
     /** initialize your data structure here. */
     public MedianFinder() {
         maxHeap = new PriorityQueue<>((a, b) -> b - a);
